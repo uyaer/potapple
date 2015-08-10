@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="home" ID="b9ec0f12-b9e9-4db7-b5b8-3162a24fc7ac" Version="2.2.1.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="home/bird.png" />
+      <FilePathData Path="home/homebg.png" />
+      <FilePathData Path="home/yun.png" />
+      <FilePathData Path="home/homebg_color.png" />
+      <FilePathData Path="home/menu_chap_apple.png" />
+      <FilePathData Path="home/menu_chap_txt.png" />
+      <FilePathData Path="home/menu_chap_txt_light.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

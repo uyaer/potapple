@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>home/bird.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,509},{185,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{185,35}</string>
+			</dict>
+			<key>home/homebg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{750,1053}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,1053}</string>
+			</dict>
+			<key>home/yun.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,344},{259,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{259,85}</string>
+			</dict>
+			<key>home/homebg_color.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1059},{750,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,11}</string>
+			</dict>
+			<key>home/menu_chap_apple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,2},{218,216}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{218,216}</string>
+			</dict>
+			<key>home/menu_chap_txt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,433},{193,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{238,118}</string>
+			</dict>
+			<key>home/menu_chap_txt_light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{756,222},{238,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{238,118}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>home.png</string>
+			<key>realTextureFileName</key>
+			<string>home.png</string>
+			<key>size</key>
+			<string>{1017,1072}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1017</integer>
+			<key>height</key>
+			<integer>1072</integer>
+		</dict>
+	</dict>
+</plist>

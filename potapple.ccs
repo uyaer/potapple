@@ -1,0 +1,48 @@
+<Solution>
+  <PropertyGroup Name="potapple" Version="2.2.1.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistInfo Name="chapter.csi" Type="Plist" />
+        <Folder Name="chapter">
+          <Image Name="hall.png" />
+          <Image Name="tree.png" />
+          <Image Name="tree_zhi.png" />
+          <Image Name="yun.png" />
+          <Image Name="tree_yuan.png" />
+        </Folder>
+        <Project Name="branch.csd" Type="Node" />
+        <Folder Name="font">
+          <Fnt Name="bignum.fnt" />
+          <Fnt Name="zhfont.fnt" />
+        </Folder>
+        <PlistInfo Name="panel.csi" Type="Plist" />
+        <Folder Name="panel">
+          <Image Name="btn_hover.png" />
+          <Image Name="btn_normal.png" />
+          <Image Name="btn_press.png" />
+          <Image Name="itembg.png" />
+          <Image Name="panel.png" />
+          <Image Name="select.png" />
+          <Image Name="title.png" />
+          <Image Name="unselect.png" />
+          <Image Name="close_press.png" />
+          <Image Name="close_normal.png" />
+        </Folder>
+        <Project Name="backpack.csd" Type="Node" />
+        <Project Name="backpackitem.csd" Type="Node" />
+        <Folder Name="home">
+          <Image Name="bird.png" />
+          <Image Name="homebg.png" />
+          <Image Name="yun.png" />
+          <Image Name="homebg_color.png" />
+          <Image Name="menu_chap_apple.png" />
+          <Image Name="menu_chap_txt.png" />
+          <Image Name="menu_chap_txt_light.png" />
+        </Folder>
+        <PlistInfo Name="home.csi" Type="Plist" />
+        <Project Name="home.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

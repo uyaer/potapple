@@ -1,0 +1,400 @@
+{
+  "ID": "13737521-1671-4f68-bb47-742a60fe5f40",
+  "Version": "2.2.1.0",
+  "Name": "backpack",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/panel.png",
+              "Plist": "panel.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 150,
+            "Scale9OriginY": 100,
+            "Scale9Width": 86,
+            "Scale9Height": 13,
+            "Tag": 9,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -700.0,
+            "TopMargin": -900.0,
+            "ActionTag": 1697420655,
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "CColor": {},
+            "Size": {
+              "X": 700.0,
+              "Y": 900.0
+            },
+            "FrameEvent": "",
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/close_press.png",
+              "Plist": "panel.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/close_press.png",
+              "Plist": "panel.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/close_normal.png",
+              "Plist": "panel.plist"
+            },
+            "Scale9Width": 88,
+            "Scale9Height": 88,
+            "TouchEnable": true,
+            "Tag": 10,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 634.051,
+            "RightMargin": -722.051,
+            "TopMargin": -922.2562,
+            "BottomMargin": 834.2562,
+            "ActionTag": -1369396909,
+            "Position": {
+              "X": 678.051,
+              "Y": 878.2562
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 88.0,
+              "Y": 88.0
+            },
+            "FrameEvent": "",
+            "Name": "closeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/title.png",
+              "Plist": "panel.plist"
+            },
+            "Tag": 11,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 139.200012,
+            "RightMargin": -563.2,
+            "TopMargin": -959.5994,
+            "BottomMargin": 852.5994,
+            "ActionTag": 1804699253,
+            "Position": {
+              "X": 351.2,
+              "Y": 906.0994
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 424.0,
+              "Y": 107.0
+            },
+            "FrameEvent": "",
+            "Name": "title",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 32,
+            "ButtonText": "出  售",
+            "TextColor": {
+              "R": 58,
+              "G": 84,
+              "B": 92
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/btn_press.png",
+              "Plist": "panel.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/btn_press.png",
+              "Plist": "panel.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/btn_normal.png",
+              "Plist": "panel.plist"
+            },
+            "Scale9Width": 210,
+            "Scale9Height": 69,
+            "TouchEnable": true,
+            "Tag": 12,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 441.5114,
+            "RightMargin": -651.5114,
+            "TopMargin": -90.195,
+            "BottomMargin": 21.195,
+            "ActionTag": 1399239645,
+            "Position": {
+              "X": 546.5114,
+              "Y": 55.695
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 210.0,
+              "Y": 69.0
+            },
+            "FrameEvent": "",
+            "Name": "sellBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "背包",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "font/zhfont.fnt"
+            },
+            "Tag": 22,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 290.0,
+            "RightMargin": -407.0,
+            "TopMargin": -980.4343,
+            "BottomMargin": 897.4343,
+            "ActionTag": -1606616301,
+            "Position": {
+              "X": 348.5,
+              "Y": 938.9343
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 117.0,
+              "Y": 83.0
+            },
+            "FrameEvent": "",
+            "Name": "BitmapFontLabel_1",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "页数：1/20",
+            "Tag": 23,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 38.5,
+            "RightMargin": -338.5,
+            "TopMargin": -70.98221,
+            "BottomMargin": 39.98221,
+            "ActionTag": 934274185,
+            "Position": {
+              "X": 38.5,
+              "Y": 55.48221
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "Size": {
+              "X": 300.0,
+              "Y": 31.0
+            },
+            "FrameEvent": "",
+            "Name": "pageTF",
+            "ctype": "TextObjectData"
+          },
+          {
+            "InnerNodeSize": {
+              "Width": 640,
+              "Height": 720
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "Tag": 24,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 34.5,
+            "RightMargin": -664.5,
+            "TopMargin": -831.7618,
+            "BottomMargin": 111.7618,
+            "ActionTag": -1967455951,
+            "Position": {
+              "X": 34.5,
+              "Y": 111.7618
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "Alpha": 69,
+            "CColor": {
+              "R": 126,
+              "G": 226,
+              "B": 21
+            },
+            "Size": {
+              "X": 630.0,
+              "Y": 720.0
+            },
+            "FrameEvent": "",
+            "Name": "scrollView",
+            "ctype": "ScrollViewObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "FrameEvent": "",
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Node"
+}

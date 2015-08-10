@@ -1,0 +1,274 @@
+{
+  "ID": "55ca9f77-8afa-41b6-b9e4-5eb8e3fd1041",
+  "Version": "2.2.1.0",
+  "Name": "backpackitem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 13,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/itembg.png",
+              "Plist": "panel.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 40,
+            "Scale9OriginY": 45,
+            "Scale9Width": 2,
+            "Scale9Height": 3,
+            "Tag": 60,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -600.0,
+            "TopMargin": -120.0,
+            "ActionTag": -932820881,
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "CColor": {},
+            "Size": {
+              "X": 600.0,
+              "Y": 120.0
+            },
+            "FrameEvent": "",
+            "Name": "itembg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/itembg.png",
+              "Plist": "panel.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 40,
+            "Scale9OriginY": 45,
+            "Scale9Width": 2,
+            "Scale9Height": 3,
+            "TouchEnable": true,
+            "Tag": 6,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 11.5,
+            "RightMargin": -111.5,
+            "TopMargin": -110.0,
+            "BottomMargin": 10.0,
+            "ActionTag": 1653178330,
+            "Position": {
+              "X": 61.5,
+              "Y": 60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "FrameEvent": "",
+            "Name": "iconbg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "苹果叶lv.1",
+            "Tag": 7,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 130.0,
+            "RightMargin": -480.0,
+            "TopMargin": -101.3274,
+            "BottomMargin": 70.3274,
+            "ActionTag": 1362783366,
+            "Position": {
+              "X": 130.0,
+              "Y": 85.8274
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "Size": {
+              "X": 350.0,
+              "Y": 31.0
+            },
+            "FrameEvent": "",
+            "Name": "nameTF",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "经验 500",
+            "Tag": 8,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 130.0,
+            "RightMargin": -480.0,
+            "TopMargin": -54.3274,
+            "BottomMargin": 23.3274,
+            "ActionTag": -1283744474,
+            "Position": {
+              "X": 130.0,
+              "Y": 38.8274
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "Size": {
+              "X": 350.0,
+              "Y": 31.0
+            },
+            "FrameEvent": "",
+            "Name": "infoTF",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "panel/unselect.png",
+              "Plist": "panel.plist"
+            },
+            "Scale9Width": 65,
+            "Scale9Height": 65,
+            "TouchEnable": true,
+            "Tag": 61,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 507.0,
+            "RightMargin": -572.0,
+            "TopMargin": -91.5,
+            "BottomMargin": 26.5,
+            "ActionTag": -1285443539,
+            "Position": {
+              "X": 539.5,
+              "Y": 59.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 65.0,
+              "Y": 65.0
+            },
+            "FrameEvent": "",
+            "Name": "select",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "FrameEvent": "",
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Node"
+}

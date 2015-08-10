@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="chapter" ID="37e661f8-09f2-4684-a8e4-9d6da0e1983c" Version="2.2.1.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="chapter/hall.png" />
+      <FilePathData Path="chapter/tree.png" />
+      <FilePathData Path="chapter/tree_zhi.png" />
+      <FilePathData Path="chapter/yun.png" />
+      <FilePathData Path="chapter/tree_yuan.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

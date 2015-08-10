@@ -1,0 +1,185 @@
+{
+  "ID": "f89aafb6-2757-4ada-af06-aad1ec121ebd",
+  "Version": "2.2.1.0",
+  "Name": "branch",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "chapter/tree_zhi.png",
+              "Plist": "chapter.plist"
+            },
+            "Tag": 4,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 14.5,
+            "RightMargin": -44.5,
+            "TopMargin": -191.5,
+            "BottomMargin": 29.5,
+            "ActionTag": -723385442,
+            "Position": {
+              "X": 29.5,
+              "Y": 29.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 45.0,
+            "RotationSkewX": 45.0,
+            "RotationSkewY": 44.9997,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 30.0,
+              "Y": 162.0
+            },
+            "FrameEvent": "",
+            "Name": "tree_zhi",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "chapter/tree_yuan.png",
+              "Plist": "chapter.plist"
+            },
+            "Scale9Width": 190,
+            "Scale9Height": 190,
+            "TouchEnable": true,
+            "Tag": 11,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 99.5,
+            "RightMargin": -289.5,
+            "TopMargin": -299.4473,
+            "BottomMargin": 109.4473,
+            "ActionTag": -1065346456,
+            "Position": {
+              "X": 194.5,
+              "Y": 204.4473
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 190.0,
+              "Y": 190.0
+            },
+            "FrameEvent": "",
+            "Name": "tree_yuan",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "LabelText": "1",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "font/bignum.fnt"
+            },
+            "Tag": 6,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 176.5001,
+            "RightMargin": -208.5001,
+            "TopMargin": -268.421,
+            "BottomMargin": 168.421,
+            "ActionTag": 1981743714,
+            "Position": {
+              "X": 192.5001,
+              "Y": 218.421
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 32.0,
+              "Y": 100.0
+            },
+            "FrameEvent": "",
+            "Name": "lvTF",
+            "ctype": "TextBMFontObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "FrameEvent": "",
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Node"
+}

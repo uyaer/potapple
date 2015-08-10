@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>panel/btn_hover.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{392,113},{210,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{210,69}</string>
+			</dict>
+			<key>panel/btn_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{606,113},{210,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{210,69}</string>
+			</dict>
+			<key>panel/btn_press.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{392,186},{210,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{210,69}</string>
+			</dict>
+			<key>panel/itembg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{820,2},{82,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,93}</string>
+			</dict>
+			<key>panel/panel.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{386,213}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{386,213}</string>
+			</dict>
+			<key>panel/select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{820,99},{65,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>panel/title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{392,2},{424,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{424,107}</string>
+			</dict>
+			<key>panel/unselect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{820,168},{65,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,65}</string>
+			</dict>
+			<key>panel/close_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{906,2},{85,87}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{88,88}</string>
+			</dict>
+			<key>panel/close_press.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{906,93},{85,87}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{88,88}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>panel.png</string>
+			<key>realTextureFileName</key>
+			<string>panel.png</string>
+			<key>size</key>
+			<string>{993,257}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>993</integer>
+			<key>height</key>
+			<integer>257</integer>
+		</dict>
+	</dict>
+</plist>

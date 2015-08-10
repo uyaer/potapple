@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>chapter/hall.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{749,521}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{749,521}</string>
+			</dict>
+			<key>chapter/tree.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{755,2},{151,512}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{151,512}</string>
+			</dict>
+			<key>chapter/tree_zhi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{910,2},{30,162}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,162}</string>
+			</dict>
+			<key>chapter/yun.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,712},{345,179}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{345,179}</string>
+			</dict>
+			<key>chapter/tree_yuan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{755,518},{190,190}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,190}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>chapter.png</string>
+			<key>realTextureFileName</key>
+			<string>chapter.png</string>
+			<key>size</key>
+			<string>{947,893}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>947</integer>
+			<key>height</key>
+			<integer>893</integer>
+		</dict>
+	</dict>
+</plist>

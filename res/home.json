@@ -1,0 +1,860 @@
+{
+  "ID": "4c631d4f-71dd-481c-805b-b95028801b21",
+  "Version": "2.2.1.0",
+  "Name": "home",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 60,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": 1510090404,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 107.851929,
+                "Y": 45.5858154,
+                "FrameIndex": 0,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 107.851929,
+                "Y": 45.5858154,
+                "FrameIndex": 15,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 107.851929,
+                "Y": 45.5858154,
+                "FrameIndex": 30,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 107.851929,
+                "Y": 45.5858154,
+                "FrameIndex": 45,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 107.851929,
+                "Y": 45.5858154,
+                "FrameIndex": 60,
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1510090404,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 15,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 30,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 45,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 60,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1510090404,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 15,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 30,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 45,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 60,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1510090404,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 15,
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 30,
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 45,
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 60,
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -204337547,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 384.021667,
+                "Y": 871.8358,
+                "FrameIndex": 0,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 384.021545,
+                "Y": 871.83606,
+                "FrameIndex": 30,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 384.021667,
+                "Y": 871.8358,
+                "FrameIndex": 60,
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -204337547,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 30,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 60,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -204337547,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 6.44659233,
+                "Y": 6.444655,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": -7.84375,
+                "Y": -7.85092163,
+                "FrameIndex": 30,
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 6.44659233,
+                "Y": 6.444655,
+                "FrameIndex": 60,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 629848841,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 370.811462,
+                "Y": 1281.68359,
+                "FrameIndex": 0,
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 629848841,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.467671663,
+                "Y": 0.467671663,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 629848841,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 4.109062,
+                "Y": 4.10133362,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -319052653,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 726.6125,
+                "Y": 1088.21692,
+                "FrameIndex": 0,
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -319052653,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.824278355,
+                "Y": 0.8242782,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -319052653,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 4.106173,
+                "Y": 4.10193968,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1693591793,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 39.4702454,
+                "Y": 1047.07935,
+                "FrameIndex": 0,
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1693591793,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.5759029,
+                "Y": 0.5759029,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1693591793,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": -10.4141235,
+                "Y": -10.3672485,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1401649283,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 338.565,
+                "Y": 1080.431,
+                "FrameIndex": 0,
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1401649283,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.5193077,
+                "Y": 0.519307256,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1401649283,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": -8.057251,
+                "Y": -8.0401,
+                "FrameIndex": 0,
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 21,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "home/homebg.png",
+              "Plist": "home.plist"
+            },
+            "Tag": 23,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -750.0,
+            "TopMargin": -1053.0,
+            "ActionTag": -1126925281,
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "CColor": {},
+            "Size": {
+              "X": 750.0,
+              "Y": 1053.0
+            },
+            "FrameEvent": "",
+            "Name": "homebg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "home/homebg_color.png",
+              "Plist": "home.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginY": 3,
+            "Scale9Width": 750,
+            "Scale9Height": 5,
+            "Tag": 24,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -750.0,
+            "TopMargin": -1346.0,
+            "BottomMargin": 1046.0,
+            "ActionTag": 990804084,
+            "Position": {
+              "X": 0.0,
+              "Y": 1046.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "CColor": {},
+            "Size": {
+              "X": 750.0,
+              "Y": 300.0
+            },
+            "FrameEvent": "",
+            "Name": "colorbg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "home/menu_chap_apple.png",
+              "Plist": "home.plist"
+            },
+            "Scale9Width": 218,
+            "Scale9Height": 216,
+            "TouchEnable": true,
+            "Tag": 28,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 268.4817,
+            "RightMargin": -486.4817,
+            "TopMargin": -871.8358,
+            "BottomMargin": 655.8358,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/defaultParticle.plist"
+                },
+                "Tag": 31,
+                "PrePosition": {
+                  "X": 0.817194,
+                  "Y": 0.5929467
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 178.148285,
+                "RightMargin": 39.8517151,
+                "TopMargin": 87.92351,
+                "BottomMargin": 128.076492,
+                "ActionTag": -2018418814,
+                "Position": {
+                  "X": 178.148285,
+                  "Y": 128.076492
+                },
+                "Scale": {
+                  "ScaleX": 1.517017,
+                  "ScaleY": 1.51700759
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "FrameEvent": "",
+                "Name": "eff_apple",
+                "ctype": "ParticleObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "home/menu_chap_txt.png",
+                  "Plist": "home.plist"
+                },
+                "Tag": 29,
+                "PrePosition": {
+                  "X": 0.494733632,
+                  "Y": 0.2141239
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -11.1480713,
+                "RightMargin": -8.851929,
+                "TopMargin": 110.749237,
+                "BottomMargin": -12.7492371,
+                "ActionTag": 802792012,
+                "Position": {
+                  "X": 107.851929,
+                  "Y": 46.2507629
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 238.0,
+                  "Y": 118.0
+                },
+                "FrameEvent": "",
+                "Name": "menu_chap_txt_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "home/menu_chap_txt_light.png",
+                  "Plist": "home.plist"
+                },
+                "Tag": 27,
+                "PrePosition": {
+                  "X": 0.494733632,
+                  "Y": 0.211045444
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -11.1480713,
+                "RightMargin": -8.851929,
+                "TopMargin": 111.414185,
+                "BottomMargin": -13.4141846,
+                "ActionTag": 1510090404,
+                "Position": {
+                  "X": 107.851929,
+                  "Y": 45.5858154
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Alpha": 0,
+                "CColor": {},
+                "Size": {
+                  "X": 238.0,
+                  "Y": 118.0
+                },
+                "FrameEvent": "",
+                "Name": "menu_chap_txt_light_4",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -204337547,
+            "Position": {
+              "X": 384.021667,
+              "Y": 871.8358
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Rotation": 6.44659233,
+            "RotationSkewX": 6.44659233,
+            "RotationSkewY": 6.444655,
+            "AnchorPoint": {
+              "ScaleX": 0.53,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "Size": {
+              "X": 218.0,
+              "Y": 216.0
+            },
+            "FrameEvent": "",
+            "Name": "appleBtn",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "home/yun.png",
+              "Plist": "home.plist"
+            },
+            "Tag": 35,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 241.311462,
+            "RightMargin": -500.311462,
+            "TopMargin": -1324.18359,
+            "BottomMargin": 1239.18359,
+            "ActionTag": 629848841,
+            "Position": {
+              "X": 370.811462,
+              "Y": 1281.68359
+            },
+            "Scale": {
+              "ScaleX": 0.467671663,
+              "ScaleY": 0.467671663
+            },
+            "Rotation": 4.109062,
+            "RotationSkewX": 4.109062,
+            "RotationSkewY": 4.10133362,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 259.0,
+              "Y": 85.0
+            },
+            "FrameEvent": "",
+            "Name": "yun_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipX": true,
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "home/yun.png",
+              "Plist": "home.plist"
+            },
+            "Tag": 36,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 597.1125,
+            "RightMargin": -856.1125,
+            "TopMargin": -1130.71692,
+            "BottomMargin": 1045.71692,
+            "ActionTag": -319052653,
+            "Position": {
+              "X": 726.6125,
+              "Y": 1088.21692
+            },
+            "Scale": {
+              "ScaleX": 0.824278355,
+              "ScaleY": 0.8242782
+            },
+            "Rotation": 4.106173,
+            "RotationSkewX": 4.106173,
+            "RotationSkewY": 4.10193968,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 259.0,
+              "Y": 85.0
+            },
+            "FrameEvent": "",
+            "Name": "yun_7_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "home/yun.png",
+              "Plist": "home.plist"
+            },
+            "Tag": 37,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -90.0297546,
+            "RightMargin": -168.970245,
+            "TopMargin": -1089.57935,
+            "BottomMargin": 1004.57935,
+            "ActionTag": -1693591793,
+            "Position": {
+              "X": 39.4702454,
+              "Y": 1047.07935
+            },
+            "Scale": {
+              "ScaleX": 0.5759029,
+              "ScaleY": 0.5759029
+            },
+            "Rotation": -10.4141235,
+            "RotationSkewX": -10.4141235,
+            "RotationSkewY": -10.3672485,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 259.0,
+              "Y": 85.0
+            },
+            "FrameEvent": "",
+            "Name": "yun_7_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipX": true,
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "home/yun.png",
+              "Plist": "home.plist"
+            },
+            "Tag": 38,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 209.065,
+            "RightMargin": -468.065,
+            "TopMargin": -1122.931,
+            "BottomMargin": 1037.931,
+            "ActionTag": -1401649283,
+            "Position": {
+              "X": 338.565,
+              "Y": 1080.431
+            },
+            "Scale": {
+              "ScaleX": 0.5193077,
+              "ScaleY": 0.519307256
+            },
+            "Rotation": -8.057251,
+            "RotationSkewX": -8.057251,
+            "RotationSkewY": -8.0401,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 259.0,
+              "Y": 85.0
+            },
+            "FrameEvent": "",
+            "Name": "yun_7_0_0",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "FrameEvent": "",
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Node"
+}

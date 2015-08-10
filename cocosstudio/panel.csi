@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="panel" ID="b88b09f3-6005-411b-9dd2-9125a14640cd" Version="2.2.1.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="panel/btn_hover.png" />
+      <FilePathData Path="panel/btn_normal.png" />
+      <FilePathData Path="panel/btn_press.png" />
+      <FilePathData Path="panel/itembg.png" />
+      <FilePathData Path="panel/panel.png" />
+      <FilePathData Path="panel/select.png" />
+      <FilePathData Path="panel/title.png" />
+      <FilePathData Path="panel/unselect.png" />
+      <FilePathData Path="panel/close_normal.png" />
+      <FilePathData Path="panel/close_press.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
